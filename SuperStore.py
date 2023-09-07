@@ -110,7 +110,7 @@ with sidebar:
 
 
 with dash_1:
-    st.markdown("<h2 style='text-align: center;'>Superstore Sales Dashboard</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center;'>Store Sales Dashboard</h2>", unsafe_allow_html=True)
     st.write("")
 
 
