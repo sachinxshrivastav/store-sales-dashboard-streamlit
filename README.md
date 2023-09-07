@@ -1,6 +1,5 @@
 # Superstore-sales-Streamlit
-Superstore Sales streamlit interactive dashboard
+Store Sales Dashboard
 
-https://superstore-sales-app.streamlit.app/
 
 
